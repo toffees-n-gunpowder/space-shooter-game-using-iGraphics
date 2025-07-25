@@ -1,0 +1,10 @@
+ tahmid: 1500
+ tahmid sadat: 1500
+ tofayel: 1500
+ rifat: 1500
+ shafayat: 1500
+ shafayat: 1500
+ sifat: 1500
+ sifat: 1500
+ toffee: 1500
+ shojib: 1500
